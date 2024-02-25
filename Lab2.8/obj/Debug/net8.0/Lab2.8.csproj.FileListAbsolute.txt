@@ -1,0 +1,14 @@
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\bin\Debug\net8.0\Lab2.8.exe
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\bin\Debug\net8.0\Lab2.8.deps.json
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\bin\Debug\net8.0\Lab2.8.runtimeconfig.json
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\bin\Debug\net8.0\Lab2.8.dll
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\bin\Debug\net8.0\Lab2.8.pdb
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\obj\Debug\net8.0\Lab2.8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\obj\Debug\net8.0\Lab2.8.AssemblyInfoInputs.cache
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\obj\Debug\net8.0\Lab2.8.AssemblyInfo.cs
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\obj\Debug\net8.0\Lab2.8.csproj.CoreCompileInputs.cache
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\obj\Debug\net8.0\Lab2.8.dll
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\obj\Debug\net8.0\refint\Lab2.8.dll
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\obj\Debug\net8.0\Lab2.8.pdb
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\obj\Debug\net8.0\Lab2.8.genruntimeconfig.cache
+E:\Gambhir\CLZ\dotNet\Labs\Lab 2\Lab2.8\obj\Debug\net8.0\ref\Lab2.8.dll
