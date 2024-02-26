@@ -18,6 +18,9 @@ Explore various labs covering fundamental language features, advanced object-ori
    - Branch: [lab3](https://github.com/gambhirpoudel/dotNet_Labs/tree/lab3)
    - Explore the world of inheritance with examples demonstrating single, multilevel, hierarchical, and multiple inheritance. Dive into sealing functions and classes to understand their usage.
 
+4. **Lab 4: Implement Advance C# Features**
+   - Branch: [lab4](https://github.com/gambhirpoudel/dotNet_Labs/tree/lab4)
+   - Master advanced C# features through practical exercises:
 <!-- Add more labs following the same structure as above -->
 
 ## Accessing Labs
@@ -33,7 +36,7 @@ To access a particular lab, follow these steps:
    ```bash
    git checkout <branch_name>
    ```
-   Replace `<branch_name>` with the specific lab branch, e.g., `lab1`, `lab2`, or `lab3`.
+   Replace `<branch_name>` with the specific lab branch, e.g., `lab1`, `lab2`, `lab3`, or `lab4`.
 
 3. Explore the lab materials and follow the provided instructions.
 
